@@ -15,7 +15,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.awaitAll
 
 class TrDiziIzle : MainAPI() {
-    override var mainUrl = "https://www.trdiziizle.vip/"
+    override var mainUrl = "https://www.trdiziizle.vip"
     override var name = "TrDiziIzle"
     override val hasMainPage = true
     override var lang = "tr"
@@ -40,8 +40,8 @@ class TrDiziIzle : MainAPI() {
         val jobs = kategoriler.map { (turParam, gorunenAd) ->
             async(Dispatchers.IO) {
                 val document = app.post(
-                    "https://www.trdiziizle.vip/wp-admin/admin-ajax.php",
-                    referer = "https://www.trdiziizle.vip/dizi-arsivi-01/",
+                    "https://www.trdiziizle.vipwp-admin/admin-ajax.php",
+                    referer = "https://www.trdiziizle.vipdizi-arsivi-01/",
                     headers = mapOf(
                         "User-Agent" to "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
                                 "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",

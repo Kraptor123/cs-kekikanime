@@ -1,4 +1,9 @@
 <h1 align="center">
+  Taşındık Yeni Adres https://github.com/Kraptor123/cs-kraptor
+</h1>
+
+
+<h1 align="center">
   <br>
   <a href="https://kraptor123.github.io/redirect/?r=cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/master/repo.json"><img src="https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/master/.github/icons/logo/kekikanime.png" alt="KekikAnime"></a>
 </h1>

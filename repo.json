@@ -1,9 +1,9 @@
 {
   "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfavicon.png",
-  "name": "Kraptor'un CloudStream Reposu | @kraptor123",
-  "description": "Güncel Stabil Eklentiler Yeni Kısa Kodumuz Kraptorcs3 Destek Olmak İçin Github Adresimizden BuyMeACofee ile Destek Olabilirsiniz.",
+  "name": "Yeni KısaKod: kraptorcs",
+  "description": "Yeni repomuzun kısa kodları: kraptorcs, kraptorcs3, kraptor bu üç kısakoddan tercih ettiğinizi kullanıp yeni repomuzu ekleyebilirsiniz!",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/builds/plugins.json"
+    "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/refs/heads/builds/plugins.json"
   ]
 }
